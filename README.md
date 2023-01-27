@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hey there 👋
+
+Check out my books: 
+* [A is for Algorithms](https://jarednielsen.gumroad.com/l/algorithms)
+* [The Little Book of Big O](https://jarednielsen.gumroad.com/l/big-o)
+* [The Seven Data Structures of Highly Effective Developers](https://jarednielsen.gumroad.com/l/data-structures)
 
 <!--
 **nielsenjared/nielsenjared** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
